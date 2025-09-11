@@ -54,7 +54,26 @@ It allows users to:
 | **Node.js**      | Backend runtime  |
 | **Express.js**   | API Development  |
 | **MongoDB**      | Database         |
+| **Razorpay**       | Payment Gateway  |
 
+**Credentials to login and test the app**
 
-| **Stripe**       | Payment Gateway  |
+1. Admin
+
+      email: superadmin4@gmail.com
+
+      password: 12345678
+
+2. OWNER
+
+      email:thiaga.v@gmail.com
+
+      password: Test@123
+
+3. CUSTOMER
+
+      email: saranyathiagarajan1318@gmail.com
+
+      password: Test@123
+
 
